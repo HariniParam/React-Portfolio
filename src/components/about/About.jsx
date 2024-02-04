@@ -24,11 +24,6 @@ const About = () => {
               <small>3rd Year M.sc Theoretical Computer Science at PSG College of Technology</small>
             </article>
             <article className='about__card'>
-              <FaAward className='about__icon'/>
-              <h5>Experience</h5>
-              <small>Currently an intern as web developer at Prodigy InfoTech</small>
-            </article>
-            <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
               <small>10+ completed</small>
