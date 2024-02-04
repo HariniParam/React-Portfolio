@@ -18,7 +18,7 @@ const About = () => {
         </div>
         <div className='about__content'>
           <div className='about__cards'>
-          <article className='about__card'>
+            <article className='about__card'>
               <PiStudentBold className='about__icon'/>
               <h5>Student</h5>
               <small>3rd Year M.sc Theoretical Computer Science at PSG College of Technology</small>
